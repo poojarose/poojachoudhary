@@ -1,0 +1,228 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+
+}
+.box{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(24 27 28);
+}
+.box1{
+    width: 20%;
+    height: 70px;
+    /* background-color: blue; */
+    float: left;
+}
+.box1 img{
+    height: 70px;
+    margin: 0px 0px 0px 27px;
+}
+.box2{
+    width: 50%;
+    height: 70px;
+    /* background-color: brown; */
+    float: left;
+}
+.box2 h1{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px 0px 0px 165px;
+    color: #fff;
+}
+.box3{
+    width: 30%;
+    height: 70px;
+    /* background-color: blue; */
+    float: left;
+}
+.box3 h2{
+    font-size: 13px;
+    margin: 27px 0px 0px 10px;
+    float: left;
+}
+.box3 a{
+    color: #fff;
+    text-decoration-line: none;
+}
+.box3 h3{
+    font-size: 13px;
+    margin: 27px 0px 0px 0px;
+    float: left;
+}
+.box3 a{
+    color: #fff;
+    text-decoration-line: none;
+    margin: 0px 0px 0px 20px;
+}
+.box3 h4{
+    margin: 27px 0px 0px 0px;
+    font-size: 13px;
+}
+.box3 a{
+    margin: 0px 0px 0px 10px;
+}
+.box4 i {
+    color: #fff;
+    margin: -15px 9px 3px 355px;
+    position: absolute;
+}
+
+.bottomheader{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+.urg-pro{
+    width: 20%;
+    height: 70px;
+    float: left;
+    /* background-color: red; */
+}
+.menulist{
+    width: 60%;
+    height: 70px;
+    float: left;
+    margin: auto;
+    /* background-color: aqua; */
+}
+.donotenow{
+    width: 20%;
+    height: 100%;
+    float: left;
+    background-color: yellowgreen;
+}
+.btn{
+    width: 69%;
+    height: 51px;
+    background-color: #000;
+    margin: 6px 0px 0px 21px;
+    border: none;
+    
+    box-shadow: 0px 0px 0px 3px #ffa04f;
+
+}
+.btn a{
+    color: #fff;
+font-size: 12px;
+    text-decoration: none;
+    
+}
+.btn:hover{
+    background-color: #ffa04f;
+}
+.ankit{
+    list-style-type: none;
+    margin-left: 140 px;
+}
+.ankit  li {
+float: left;
+margin-left: 20px;
+
+
+}
+.ankit li a{
+    font-size: 30px;
+    text-decoration: none;
+    color: #fff;
+    padding: 0px 0px 0px 91px;
+}
+.form{
+    width: 20%;
+    height: 70px;
+    background-color: black;
+    float: left;
+}
+button{
+    width: 129px;
+    height: 48px;
+    margin: 10px 0px 0px  115px;
+    background-color: #ffa04f;
+}
+button a{
+    text-decoration: none;
+    color: black;
+}
+.form1{
+    width: 100%;
+    height: 800px;
+    /* background-color: aqua; */
+
+}
+.form1 img{
+    width: 100%;
+    height: 800px;
+    float: left;
+}
+.form2{
+    width: 350px;
+    height: 160px;
+    float: left;
+    position: relative;
+    top: -550px;
+    left: 110px;
+}
+.form2 h1{
+    font-size: 40px;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.form3{
+    width: 100%;
+    height: 700px;
+    background-color: red;
+    }
+    .form4{
+        width: 60%;
+        height: 700px;
+        background-color: #ffa04f;
+    }
+    .form4 h1{
+        margin: 65px 0px 0px 95px;
+    position: absolute;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .form4 h2{
+        margin: 130px 0px 0px 93px;
+    position: absolute;
+    font-size: 27px;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .form5 h3{ 
+        float: left;
+        /* position: relative; */
+        top:-550px;
+        left: 127px;
+        
+    }
+
+    .projectoverview{
+        width: 100%;
+        height: 540px;
+        background-color: #ffa04f;
+        padding: 30px;
+        /* font-size: large; */
+    }
+.box-60{
+    width: 55%;
+    height: 540px;
+    text-align: justify;
+    padding: 30px;
+}
+.box-60 h3{
+    color: green;
+    font-size: 35px;
+}
+.box-60 h5{
+    margin: -74px 0px 0px 255px;
+    font-size: 20px;
+}
+.box-60 h6{
+    font-size: 20px;
+}
+.box-60 h4{
+    font-size: 20px;
+}
